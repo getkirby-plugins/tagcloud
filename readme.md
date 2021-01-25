@@ -1,4 +1,4 @@
-# Tagcloud Plugin
+# Kirby 2 Tagcloud Plugin
 
 ## What is it?
 
